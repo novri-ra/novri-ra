@@ -1,6 +1,3 @@
-# Let's create the content for the README.md file
-
-readme_content = """
 # 👋 Hi, I’m Novri Rizki Akbar (@novri-ra)  
 
 📍 *Gandapura, Kab. Bireuen, Aceh, Indonesia*  
