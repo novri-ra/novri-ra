@@ -70,7 +70,6 @@ I am looking to collaborate on:
 ---
 
 ## 📫 How to Reach Me
-- **Email**: robydnfs15@gmail.com  
 - **LinkedIn**: [Novri Rizki Akbar](https://linkedin.com/in/novri-rizki-akbar)  
 
 ---
